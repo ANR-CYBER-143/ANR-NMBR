@@ -273,10 +273,10 @@ def banner2():
 \033[33;1m───────────
                                                                                     
 \033[1;91m ┌───────────────────────────────────────────┐\033[1;91m  
-\033[1;91m │\033[1;97mMADE BY   {K}:  {H}ABDUL NUR RIFAT         \033[1;91m       │
-\033[1;91m │\033[97;1mFACEBOOK {K} :  {H}ABDUL NUR RIFAT      \033[1;91m        │
-\033[1;91m │\033[1;97mWHATSAPP {K} : {H} +8801940200959           \033[1;91m   │
-\033[1;91m │\033[1;97mGITHUB    {K}:  {H}ANR-CYBER-143   \033[1;91m                  │
+\033[1;91m │\033[1;97mMADE BY   {K}:  {H}ABDUL NUR RIFAT\033[1;91m│
+\033[1;91m │\033[97;1mFACEBOOK {K} :  {H}ABDUL NUR RIFAT\033[1;91m│
+\033[1;91m │\033[1;97mWHATSAPP {K} : {H} +8801916784928\033[1;91m │
+\033[1;91m │\033[1;97mGITHUB    {K}:  {H}ANR-CYBER-143\033[1;91m  │
 \033[1;91m │\033[1;97mVERSION   {K}: {H} 1.7.9   \033[1;91m                                      │
 \033[1;91m └───────────────────────────────────────────┘""")
 
@@ -316,7 +316,7 @@ def Subscraption():
         opt = input(f'    %s[%s?%s] Select menu :{H} '%(P,K,P))
         if opt =='1':
             tks = '*ASALAMUALIKUM*%2C%20*OVI-AHMED-SIR*%20*I*%20*WANT*%20*TO*%20*BUY*%20*YOUR*%20*NEW*%20*---*%20*-CAMMAND*4-4-8%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20*My*%20*Key*%20*='+key1
-            os.system('xdg-open  https://wa.me/+8801940200959?text='+tks)
+            os.system('xdg-open  https://wa.me/+8801916784928?text='+tks)
             Subscraption()
         if opt =='2':
             os.system('xdg-open https://www.facebook.com/profile.php?id=rifatofficial40');Subscraption()
